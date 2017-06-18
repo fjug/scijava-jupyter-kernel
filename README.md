@@ -20,7 +20,7 @@ A documentation is available as a series of notebooks [here](./notebooks/Welcome
 
 ## Installation - Standalone
 
-- Install [Anaconda](https://www.continuum.io/downloads)
+- Install the [Command Line Installer of Anaconda for Python 3](https://www.continuum.io/downloads) or [Miniconda for Python 3](https://conda.io/miniconda.html)
 - Install `scijava-jupyter-kernel` with :
 
 ```bash
